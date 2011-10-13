@@ -1,0 +1,5 @@
+Greasemonkey script to allow you to ignore users on an InstantForum.NET forum.
+
+Tested as working on forums.rule7.co.uk.
+
+To ignore a user, add their name to the list at the start of the script. Any post by them will be replaced with the text "You are ignoring this user."
